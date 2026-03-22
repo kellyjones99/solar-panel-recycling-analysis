@@ -51,6 +51,12 @@ This project was developed as part of preparation for an application to the **MP
 
 ---
 
+## References
+
+For full citations, see the [References](./REFERENCES.md) file.
+
+---
+
 ## Citation
 
 If you use this work, please cite:
