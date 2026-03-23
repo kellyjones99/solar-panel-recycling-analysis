@@ -1,0 +1,8 @@
+material,mechanical_separation,thermal_separation,chemical_separation
+solar glass,moderate,moderate,moderate
+aluminium,easy,easy,moderate
+silicon,hard,moderate,moderate
+silver,hard,moderate,easy
+copper,moderate,easy,easy
+EVA,hard,moderate,moderate
+backsheet,hard,easy,hard

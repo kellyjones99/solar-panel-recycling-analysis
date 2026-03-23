@@ -1,0 +1,6 @@
+material,%_in_panel,recovery_rate,behaviour_during_recycling,notes
+solar glass,76,95,"brittle fracture, mechanical and thermal separation",often downcycled
+aluminum,8,98,easily separated mechanically and thermally,highly recyclable
+silicon,5,90,"fragile, contamination sensitive. Both thermal and chemical separation techniques have been explored",hard to retain purity
+copper,1,95,"conductive, fairly easy to extract thermally",high value
+silver,0.1,95,requires chemical leaching,high economic value

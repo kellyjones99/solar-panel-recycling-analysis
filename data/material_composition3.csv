@@ -1,0 +1,162 @@
+facility_id,component_id,material,kg_per_plant,mass fraction
+Solar PV - c-Si UPV,cabling,copper,313563.36,0.016380928
+Solar PV - c-Si UPV,cabling,thermoplastic,126436.64,0.006605203
+Solar PV - c-Si UPV,inverter,acetone,0.7927,4.14116E-08
+Solar PV - c-Si UPV,inverter,alkyl amines,6.1686,3.22255E-07
+Solar PV - c-Si UPV,inverter,aluminum,20589.0896,0.001075599
+Solar PV - c-Si UPV,inverter,aluminum oxide,3.0224,1.57894E-07
+Solar PV - c-Si UPV,inverter,ammonia,0.3303,1.72553E-08
+Solar PV - c-Si UPV,inverter,argon,2.4361,1.27265E-07
+Solar PV - c-Si UPV,inverter,chlorine,0.0083,4.33602E-10
+Solar PV - c-Si UPV,inverter,chromium,107.5069,5.61629E-06
+Solar PV - c-Si UPV,inverter,cobalt,3.641,1.9021E-07
+Solar PV - c-Si UPV,inverter,copper,57372.4514,0.002997206
+Solar PV - c-Si UPV,inverter,dysprosium,0.0001,5.22412E-12
+Solar PV - c-Si UPV,inverter,epoxy,1260.4788,6.58489E-05
+Solar PV - c-Si UPV,inverter,ethanolamines,2.0314,1.06123E-07
+Solar PV - c-Si UPV,inverter,gallium,0.0436,2.27772E-09
+Solar PV - c-Si UPV,inverter,glass,1.9158,1.00084E-07
+Solar PV - c-Si UPV,inverter,glass reinforced plastic,11095.1715,0.000579625
+Solar PV - c-Si UPV,inverter,gold,0.0495,2.58594E-09
+Solar PV - c-Si UPV,inverter,helium,0.2395,1.25118E-08
+Solar PV - c-Si UPV,inverter,hexafluoroethane,0.0743,3.88152E-09
+Solar PV - c-Si UPV,inverter,hexamethyldisilazane,0.033,1.72396E-09
+Solar PV - c-Si UPV,inverter,hydrochloric acid,3.8399,2.00601E-07
+Solar PV - c-Si UPV,inverter,hydrogen,0.3303,1.72553E-08
+Solar PV - c-Si UPV,inverter,hydrogen fluoride,0.3716,1.94128E-08
+Solar PV - c-Si UPV,inverter,iron,11.2389,5.87134E-07
+Solar PV - c-Si UPV,inverter,isopropanol,2.8902,1.50988E-07
+Solar PV - c-Si UPV,inverter,lead,2.081,1.08714E-07
+Solar PV - c-Si UPV,inverter,lime,0.0165,8.6198E-10
+Solar PV - c-Si UPV,inverter,lithium,0.0001,5.22412E-12
+Solar PV - c-Si UPV,inverter,low carbon steel,224687.4894,0.011737946
+Solar PV - c-Si UPV,inverter,manganese,4242.8188,0.00022165
+Solar PV - c-Si UPV,inverter,methyl-3-methyoxypropionate,2.1223,1.10872E-07
+Solar PV - c-Si UPV,inverter,molybdenum,1.1809,6.16916E-08
+Solar PV - c-Si UPV,inverter,nickel,3178.1904,0.000166033
+Solar PV - c-Si UPV,inverter,niobium,0.6538,3.41553E-08
+Solar PV - c-Si UPV,inverter,nitric acid,1.1891,6.212E-08
+Solar PV - c-Si UPV,inverter,nitrogen,398.4719,2.08167E-05
+Solar PV - c-Si UPV,inverter,other,3520.8946,0.000183936
+Solar PV - c-Si UPV,inverter,oxygen,16.8707,8.81346E-07
+Solar PV - c-Si UPV,inverter,palladium,0.0083,4.33602E-10
+Solar PV - c-Si UPV,inverter,phosphate rock,0.8258,4.31408E-08
+Solar PV - c-Si UPV,inverter,phosphoric acid,2.9646,1.54874E-07
+Solar PV - c-Si UPV,inverter,polyester,6885.9562,0.000359731
+Solar PV - c-Si UPV,inverter,praseodymium,1.1482,5.99834E-08
+Solar PV - c-Si UPV,inverter,PTFE fluoropolymers,0.0413,2.15756E-09
+Solar PV - c-Si UPV,inverter,silicon,0.4294,2.24324E-08
+Solar PV - c-Si UPV,inverter,silicone,0.0165,8.6198E-10
+Solar PV - c-Si UPV,inverter,silver,0.1817,9.49223E-09
+Solar PV - c-Si UPV,inverter,sodium hydroxide,11.8169,6.17329E-07
+Solar PV - c-Si UPV,inverter,sulfuric acid,10.7929,5.63834E-07
+Solar PV - c-Si UPV,inverter,thermoplastic,4689.9596,0.000245009
+Solar PV - c-Si UPV,inverter,tin,5.3715,2.80614E-07
+Solar PV - c-Si UPV,inverter,titanium,108.4189,5.66393E-06
+Solar PV - c-Si UPV,inverter,titanium dioxide,1.4616,7.63557E-08
+Solar PV - c-Si UPV,inverter,trichloromethane,0.0165,8.6198E-10
+Solar PV - c-Si UPV,inverter,trifluoromethane,0.0413,2.15756E-09
+Solar PV - c-Si UPV,inverter,vanadium,0.0003,1.56724E-11
+Solar PV - c-Si UPV,inverter,zeolite,0.4129,2.15704E-08
+Solar PV - c-Si UPV,inverter,zinc,42.4665,2.2185E-06
+Solar PV - c-Si UPV,PV module,aluminum,1060703.188,0.055412415
+Solar PV - c-Si UPV,PV module,aluminum oxide,452.9314,2.36617E-05
+Solar PV - c-Si UPV,PV module,ammonia,10357.6135,0.000541094
+Solar PV - c-Si UPV,PV module,chromium,4587.26,0.000239644
+Solar PV - c-Si UPV,PV module,cobalt,0.1801,9.40864E-09
+Solar PV - c-Si UPV,PV module,copper,53543.5361,0.002797179
+Solar PV - c-Si UPV,PV module,dysprosium,0.0061,3.18671E-10
+Solar PV - c-Si UPV,PV module,epoxy,31.1851,1.62915E-06
+Solar PV - c-Si UPV,PV module,ethylene vinyl acetate,442531.3024,0.023118369
+Solar PV - c-Si UPV,PV module,gallium,0.0088,4.59723E-10
+Solar PV - c-Si UPV,PV module,glass,369.1959,1.92872E-05
+Solar PV - c-Si UPV,PV module,glass reinforced plastic,149196.5429,0.007794207
+Solar PV - c-Si UPV,PV module,hydrochloric acid,297.9794,1.55668E-05
+Solar PV - c-Si UPV,PV module,hydrogen fluoride,303.0086,1.58295E-05
+Solar PV - c-Si UPV,PV module,iron,4374.9164,0.000228551
+Solar PV - c-Si UPV,PV module,isopropanol,83700.7825,0.00437263
+Solar PV - c-Si UPV,PV module,lead,500.2863,2.61356E-05
+Solar PV - c-Si UPV,PV module,lime,7141.4475,0.000373078
+Solar PV - c-Si UPV,PV module,lithium,0.0004,2.08965E-11
+Solar PV - c-Si UPV,PV module,magnesium,32853.4137,0.001716302
+Solar PV - c-Si UPV,PV module,manganese,5763.5623,0.000301095
+Solar PV - c-Si UPV,PV module,molybdenum,227.5858,1.18894E-05
+Solar PV - c-Si UPV,PV module,nickel,8.2414,4.30541E-07
+Solar PV - c-Si UPV,PV module,niobium,0.0149,7.78394E-10
+Solar PV - c-Si UPV,PV module,nitrogen,543804.8844,0.028409023
+Solar PV - c-Si UPV,PV module,non-PTFE fluoropolymers,56642.5508,0.002959075
+Solar PV - c-Si UPV,PV module,other,5633.9483,0.000294324
+Solar PV - c-Si UPV,PV module,phosphoryl chloride,6291.5147,0.000328676
+Solar PV - c-Si UPV,PV module,polyester,174985.9787,0.009141479
+Solar PV - c-Si UPV,PV module,praseodymium,0.1913,9.99374E-09
+Solar PV - c-Si UPV,PV module,silane,1375.483,7.18569E-05
+Solar PV - c-Si UPV,PV module,silicon,294179.8946,0.015368313
+Solar PV - c-Si UPV,PV module,silicone,61700.8772,0.003223328
+Solar PV - c-Si UPV,PV module,silver,1689.8073,8.82776E-05
+Solar PV - c-Si UPV,PV module,sodium hydroxide,285615.153,0.01492088
+Solar PV - c-Si UPV,PV module,solar glass,4455630.866,0.232767533
+Solar PV - c-Si UPV,PV module,terbium,0.0037,1.93292E-10
+Solar PV - c-Si UPV,PV module,thermoplastic,12038.2817,0.000628894
+Solar PV - c-Si UPV,PV module,tin,6749.0467,0.000352578
+Solar PV - c-Si UPV,PV module,titanium,15.3742,8.03167E-07
+Solar PV - c-Si UPV,PV module,vanadium,0.0063,3.2912E-10
+Solar PV - c-Si UPV,PV module,zinc,2247.3558,0.000117405
+Solar PV - c-Si UPV,Racking,aluminum,47008.9401,0.002455804
+Solar PV - c-Si UPV,Racking,carbon black,6.106,3.18985E-07
+Solar PV - c-Si UPV,Racking,chromium,10529.8464,0.000550092
+Solar PV - c-Si UPV,Racking,chromium steel,42240.8468,0.002206713
+Solar PV - c-Si UPV,Racking,cobalt,82.9086,4.33125E-06
+Solar PV - c-Si UPV,Racking,copper,2654.2223,0.00013866
+Solar PV - c-Si UPV,Racking,dysprosium,0.0015,7.83618E-11
+Solar PV - c-Si UPV,Racking,ethylene carbonate,65.028,3.39714E-06
+Solar PV - c-Si UPV,Racking,gallium,1.1436,5.9743E-08
+Solar PV - c-Si UPV,Racking,graphite,80.7703,4.21954E-06
+Solar PV - c-Si UPV,Racking,hexafluoroethane,0.5731,2.99394E-08
+Solar PV - c-Si UPV,Racking,lithium,90.7802,4.74247E-06
+Solar PV - c-Si UPV,Racking,low carbon steel,4797092.718,0.250605913
+Solar PV - c-Si UPV,Racking,manganese,90505.1146,0.004728096
+Solar PV - c-Si UPV,Racking,nickel,73685.7372,0.003849432
+Solar PV - c-Si UPV,Racking,niobium,13.9743,7.30034E-07
+Solar PV - c-Si UPV,Racking,non-PTFE fluoropolymers,4.2023,2.19533E-07
+Solar PV - c-Si UPV,Racking,other,9.1166,4.76262E-07
+Solar PV - c-Si UPV,Racking,phthalic anhydride,6.3669,3.32615E-07
+Solar PV - c-Si UPV,Racking,praseodymium,24.5208,1.281E-06
+Solar PV - c-Si UPV,Racking,terbium,0.0009,4.70171E-11
+Solar PV - c-Si UPV,Racking,thermoplastic,37.6474,1.96675E-06
+Solar PV - c-Si UPV,Racking,tin,6.3916,3.33905E-07
+Solar PV - c-Si UPV,Racking,titanium,2316.1271,0.000120997
+Solar PV - c-Si UPV,Racking,vanadium,0.0037,1.93292E-10
+Solar PV - c-Si UPV,Racking,zinc,135385.8305,0.007072719
+Solar PV - c-Si UPV,Remaining SBOS,boron,60.3394,3.1522E-06
+Solar PV - c-Si UPV,Remaining SBOS,chromium,18.3089,9.56479E-07
+Solar PV - c-Si UPV,Remaining SBOS,cobalt,0.8082,4.22213E-08
+Solar PV - c-Si UPV,Remaining SBOS,concrete,1928413.906,0.10074267
+Solar PV - c-Si UPV,Remaining SBOS,gallium,0.0097,5.0674E-10
+Solar PV - c-Si UPV,Remaining SBOS,lithium,0.0135,7.05256E-10
+Solar PV - c-Si UPV,Remaining SBOS,low carbon steel,49888.0562,0.002606212
+Solar PV - c-Si UPV,Remaining SBOS,manganese,940.8369,4.91505E-05
+Solar PV - c-Si UPV,Remaining SBOS,nickel,705.3717,3.68495E-05
+Solar PV - c-Si UPV,Remaining SBOS,niobium,0.1452,7.58542E-09
+Solar PV - c-Si UPV,Remaining SBOS,praseodymium,0.2549,1.33163E-08
+Solar PV - c-Si UPV,Remaining SBOS,thermoplastic,21261.6,0.001110732
+Solar PV - c-Si UPV,Remaining SBOS,tin,0.0649,3.39045E-09
+Solar PV - c-Si UPV,Remaining SBOS,titanium,24.046,1.25619E-06
+Solar PV - c-Si UPV,Remaining SBOS,zinc,1121.0065,5.85627E-05
+Solar PV - c-Si UPV,Transformer,boron,57.4103,2.99918E-06
+Solar PV - c-Si UPV,Transformer,chromium,20.6255,1.0775E-06
+Solar PV - c-Si UPV,Transformer,cobalt,0.9104,4.75604E-08
+Solar PV - c-Si UPV,Transformer,concrete,1834800.818,0.095852209
+Solar PV - c-Si UPV,Transformer,copper,165199.0976,0.0086302
+Solar PV - c-Si UPV,Transformer,epoxy,30001.3555,0.001567307
+Solar PV - c-Si UPV,Transformer,gallium,0.0109,5.69429E-10
+Solar PV - c-Si UPV,Transformer,lithium,0.0128,6.68687E-10
+Solar PV - c-Si UPV,Transformer,low carbon steel,56200.3911,0.002935976
+Solar PV - c-Si UPV,Transformer,manganese,1059.8809,5.53695E-05
+Solar PV - c-Si UPV,Transformer,nickel,794.6224,4.1512E-05
+Solar PV - c-Si UPV,Transformer,niobium,0.1635,8.54144E-09
+Solar PV - c-Si UPV,Transformer,other,1275696.982,0.06664395
+Solar PV - c-Si UPV,Transformer,plastic,30001.3555,0.001567307
+Solar PV - c-Si UPV,Transformer,praseodymium,0.2872,1.50037E-08
+Solar PV - c-Si UPV,Transformer,tin,0.0731,3.81883E-09
+Solar PV - c-Si UPV,Transformer,titanium,27.0886,1.41514E-06
+Solar PV - c-Si UPV,Transformer,zinc,8.7673,4.58014E-07
