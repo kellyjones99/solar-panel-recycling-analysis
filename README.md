@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project explores the lifecycle of solar panels, with a focus on material composition, end-of-life (EOL) waste generation, and current recycling efficiency techniques. It combines data analysis and modelling to evaluate the urgency at which we need to develop efficient recycling processes for solar PV materials.
+This project explores the lifecycle of solar panels, with a focus on material composition, end-of-life (EOL) waste generation, and current recycling techniques. It combines data analysis and modelling to evaluate the urgency at which we need to develop efficient recycling processes for solar PV materials.
 
 This work is also informed by an **environmental justice** perspective. Inadequate recycling of solar PV materials risks hazardous substances leaching from landfill sites, potentially contaminating soil and water systems in vulnerable communities. This highlights the importance of developing effective and equitable material recovery strategies as part of the clean energy transition.
 
@@ -17,9 +17,9 @@ This work is also informed by an **environmental justice** perspective. Inadequa
 This repository includes:
 
 * Analysis of **crystalline silicon (c-Si) PV material composition**
-* **Waste generation projections** based on global installation trends
+* **Waste generation projections** based on global installation data
 * Evaluation of **material-specific recycling behaviour** and separation techniques
-* Modelling of **recycling efficiency** across different materials
+* Modelling of **recycling inefficiencies** across different materials
 * Jupyter notebooks demonstrating the full analysis workflow
 
 ---
