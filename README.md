@@ -53,7 +53,7 @@ This project was developed as part of preparation for an application to the **MP
 
 ## References
 
-For full citations, see the [References](./REFERENCES.md) file.
+For full citations, see the [references](./REFERENCES.md) file.
 
 ---
 
