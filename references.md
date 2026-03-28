@@ -1,7 +1,6 @@
 # References (A–Z)
 
 ## A
-
 [^1]: Abernethy, R.B. (2002). *The New Weibull Handbook: Chapter 1 – An Overview of Weibull Analysis*. North Palm Beach, FL: Robert B. Abernethy. Available at: https://web.mit.edu/2.70/Reading%20Materials/Weibull%20handbook%20%20Chpt1.pdf (Accessed: 21 March 2026).
 
 [^2]: Akhter, M. et al. (2024). ‘Sustainable strategies for crystalline solar cell recycling: A review on recycling techniques, companies, and environmental impact analysis’. *Sustainability*, 16(13), 5785. Available at: https://doi.org/10.3390/su16135785 (Accessed: 21 March 2026).
